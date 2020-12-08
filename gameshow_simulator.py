@@ -33,5 +33,5 @@ input_iterations = input("How many games to simulate? ")
 try:
     play_gameshow(int(input_doors), int(input_iterations))
 except:
-    print("Something whent wrong")
+    print("Something went wrong")
 
